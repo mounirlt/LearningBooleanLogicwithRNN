@@ -1,0 +1,6 @@
+*.png
+.spyderproject
+results
+.idea/
+lstm*
+__pycache__/
